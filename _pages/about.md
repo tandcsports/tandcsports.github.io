@@ -5,9 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
-## Town &amp; Country 10U Baseball Coaching Resource - Austin, Texas</h2>
+## Town &amp; Country 10U Baseball Coaching Resource - Austin, Texas
 
-Todd A. Wood is the T&amp;C 10U Baseball Commissioner and setup this
-website as a coaching resource for those that volunteer to coach a
-10U baseball team
-
+This companion website was setup by T&amp;C 10U Baseball
+Commissioner Todd A. Wood to service as reference material for people
+who volunteer to coach a 10U baseball team.
